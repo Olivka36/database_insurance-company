@@ -1,4 +1,5 @@
-### Using a database in an insurance company
+### Using a database in an insurance company   
+### Имитация работы страховой компании, в особенности - заключение договора страхования.
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 
